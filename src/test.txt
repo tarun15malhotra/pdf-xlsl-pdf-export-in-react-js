@@ -1,0 +1,5 @@
+npm install @react-pdf/renderer
+npm install react-pdf
+
+
+npm install xlsx
